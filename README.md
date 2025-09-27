@@ -1,4 +1,4 @@
 # ANSARI-YASAR
 THIS IS MY FIRST GIT REPOSITORY
-AUTHER - Ansari Yasar 
+AUTHoR - Ansari Yasar 
  
